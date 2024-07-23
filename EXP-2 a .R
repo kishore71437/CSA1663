@@ -1,0 +1,5 @@
+ages <- c(13, 15, 16, 16, 19, 20, 20, 21, 22, 22, 25, 25, 25, 25, 30, 33, 33, 35, 35, 35, 35, 36, 40, 45, 46, 52, 70)
+mean_age <- mean(ages)
+median_age <- median(ages)
+cat("Mean of the data:", mean_age, "\n")
+cat("Median of the data:", median_age, "\n")
